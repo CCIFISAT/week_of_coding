@@ -1,6 +1,6 @@
 You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/Paul-es/day_1
 
---> What is HTML:
+--> #What is HTML:
 
 
                 HTML is the standard markup language for creating Web pages. 
@@ -46,9 +46,11 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
 		   
 --> How to add line breaker:
 				
-			   <br> is an empty element without a closing tag (the <br> tag defines a line break
+			   <br> is an empty element without a closing tag, the <br> tag defines a line break
 			   
 			   check out (example 3)
+			   
+--> Do you know a thing HTML is not case sensitive
 		    
 
 
