@@ -2,9 +2,9 @@
 
 
                 HTML is the standard markup language for creating Web pages. 
-	      	It describes the structure of a websitE.         
-		HTML elements are represented by tags.    
-                Browsers do not display the HTML tags, but use them to render the content of the pagE.
+	      It describes the structure of a websitE.         
+	    HTML elements are represented by tags.    
+                Browsers do not display the HTML tags, but use them to render the content of the page.
 		
 				
 --> HTML TAGS Explained:
