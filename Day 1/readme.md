@@ -59,9 +59,21 @@
 				
 			   <br> is an empty element without a closing tag, the <br> tag defines a line break
 			   
-			   check out (example 3)
+			   > Check out (example 3)
 			   
-**Do you know a thing HTML is not case sensitive**
-		    
+>**Do you know a thing HTML is not case sensitive**
+
+
+# HTML Attributes	
+     
+        	1. href
+		
+		2. src - Name of the file
+		
+		3. alt - specifies an alternative text to be used, if an image cannot be displayed.
+		
+		4. lang - specifying the language is important for developers and search engines
+		
+		> Check out (example 4)
 
 
