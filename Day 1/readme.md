@@ -93,7 +93,7 @@ Element | Meaning
   
 # HTML Forms
 
->**check out example 6**
+>**check out (example 6)**
 
 **```<form>```element defines a form that is used to collect user input**
 
