@@ -40,4 +40,4 @@
 			   
 			HTML elements can br nested
 			   
-                        Check out (example 2) 
+                     Check out (example 2) 
