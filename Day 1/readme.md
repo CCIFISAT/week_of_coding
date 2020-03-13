@@ -14,5 +14,10 @@
        <body> element contains the visible page content
        <h1> element defines a large size heading,<h2> little bit smaller than h1, so the number defines the size h3,h4 etc.
        <p> element defines a paragraph.
+	   <a> to add link
        
-Check out example 1 :https://codesandbox.io/s/github/Paul-es/day_1
+Check out example 1 :https://codesandbox.io/s/github/Paul-es/day_1  (Run this code in your text editor eg: NotePad,visual studio)
+
+--> Tags normally come in pairs like <> (starting tag) </> (end tag)
+
+Check out example 2: 
