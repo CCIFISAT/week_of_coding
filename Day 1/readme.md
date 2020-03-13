@@ -78,7 +78,7 @@
 		
 # Other Key Elements
 
-First Header | Second Header
+Element | Meaning
 ------------ | -------------
 ```<b>``` | Bold
 ```<strong>``` | to highlight key text
