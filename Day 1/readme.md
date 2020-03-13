@@ -90,6 +90,19 @@ Element | Meaning
 # Create a List
 
    >**Check out (example 5)**
+  
+# HTML Forms
+
+>**check out example 6**
+
+**```<form>```element defines a form that is used to collect user input**
+
+**```<input>``` used to take input from the user**
+
+**the type attribute specifies the type of ```<input>``` element to display.**
+
+**```<label>```provides label for the fields**
+
 
 
 
