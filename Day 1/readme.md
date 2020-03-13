@@ -34,7 +34,7 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
        
 --> Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
 
---> Tags normally come in pairs like <> (starting tag) </> (end tag)
+--> Tags normally come in pairs like <> (starting tag) </> (end tag). While opening a tag you need to close it.
 
 --> How to add link in HTML:
  	
@@ -43,3 +43,12 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
 			HTML elements can br nested
 			   
                     Check out (example 2) 
+		   
+--> How to add line breaker:
+				
+			   <br> is an empty element without a closing tag (the <br> tag defines a line break
+			   
+			   check out (example 3)
+		    
+
+
