@@ -34,7 +34,14 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
        
 ### Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
 
-### Tags normally come in pairs like <> (starting tag) </> (end tag). While opening a tag you need to close it.
+### Tags normally come in pairs like <> (starting tag) </> (end tag).
+			
+			
+			     <p>
+			         Welcome to day 1
+			     </p>
+			     
+			     
 
 ## How to add link in HTML:
  	
