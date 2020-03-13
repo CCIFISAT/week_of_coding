@@ -1,6 +1,6 @@
 You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/Paul-es/day_1
 
---> #What is HTML:
+# What is HTML:
 
 
                 HTML is the standard markup language for creating Web pages. 
@@ -12,7 +12,7 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
                 Browsers do not display the HTML tags, but use them to render the content of the page.
 		
 				
---> HTML TAGS Explained:
+# HTML TAGS Explained:
 			
  
        <!DOCTYPE html> declaration defines this document to be HTML
@@ -32,11 +32,11 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
 	   <a> to add link
 	   
        
---> Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
+### Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
 
---> Tags normally come in pairs like <> (starting tag) </> (end tag). While opening a tag you need to close it.
+### Tags normally come in pairs like <> (starting tag) </> (end tag). While opening a tag you need to close it.
 
---> How to add link in HTML:
+## How to add link in HTML:
  	
 	                href is a attribute used to specify link destination
 			   
@@ -44,13 +44,13 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
 			   
                     Check out (example 2) 
 		   
---> How to add line breaker:
+## How to add line breaker:
 				
 			   <br> is an empty element without a closing tag, the <br> tag defines a line break
 			   
 			   check out (example 3)
 			   
---> Do you know a thing HTML is not case sensitive
+**Do you know a thing HTML is not case sensitive**
 		    
 
 
