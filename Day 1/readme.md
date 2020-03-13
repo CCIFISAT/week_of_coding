@@ -4,5 +4,15 @@
 					HTML elements are represented by tags       
 							Browsers do not display the HTML tags, but use them to render the content of the page
 				
-        
+--> HTML TAGS Explained:
+			
  
+       <!DOCTYPE html> declaration defines this document to be HTML
+       <html> element is the root element of an HTML page
+       <head> element contains information about the document
+       <title> element specifies a title for the document
+       <body> element contains the visible page content
+       <h1> element defines a large size heading,<h2> little bit smaller than h1, so the number defines the size h3,h4 etc.
+       <p> element defines a paragraph.
+       
+Check out example 1 :https://codesandbox.io/s/github/Paul-es/day_1
