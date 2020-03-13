@@ -35,7 +35,7 @@
 ## Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
 
 
-**Tags normally come in pairs like <> (starting tag) </> (end tag).**
+>**Tags normally come in pairs like <> (starting tag) </> (end tag).**
 			
 			
 			     <p>
