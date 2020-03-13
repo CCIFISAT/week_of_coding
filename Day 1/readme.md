@@ -37,5 +37,7 @@
 --> How to add link in HTML:
  	
 	                href is a attribute used to specify link destination
-			
-                        Check out (example 2) 
+			   
+			   HTML elements can br nested
+			   
+                             Check out (example 2) 
