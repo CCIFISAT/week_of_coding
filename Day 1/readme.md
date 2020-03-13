@@ -38,6 +38,6 @@
  	
 	                href is a attribute used to specify link destination
 			   
-			   HTML elements can br nested
+			HTML elements can br nested
 			   
-                             Check out (example 2) 
+                        Check out (example 2) 
