@@ -75,5 +75,23 @@
 		4. lang - specifying the language is important for developers and search engines
 		
 		> Check out (example 4)
+		
+# Other Key Elements
+
+First Header | Second Header
+------------ | -------------
+```<b>``` | Bold
+```<strong>``` | to highlight key text
+```<i>``` | Italic
+```<small>``` | Small text
+```<strike>``` | Strike text out
+```<u>``` | Underline the text
+
+
+
+
+
+
+                     
 
 
