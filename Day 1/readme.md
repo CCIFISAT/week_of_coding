@@ -1,3 +1,5 @@
+You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/Paul-es/day_1
+
 --> What is HTML:
 
 
@@ -30,7 +32,7 @@
 	   <a> to add link
 	   
        
---> Check out (example 1) :https://codesandbox.io/s/github/Paul-es/day_1  (Run this code in your text editor eg:      NotePad,visual studio)
+--> Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
 
 --> Tags normally come in pairs like <> (starting tag) </> (end tag)
 
@@ -40,4 +42,4 @@
 			   
 			HTML elements can br nested
 			   
-                     Check out (example 2) 
+                    Check out (example 2) 
