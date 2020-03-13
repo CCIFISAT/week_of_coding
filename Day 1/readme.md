@@ -1,3 +1,2 @@
-Day 1
-
-https://codesandbox.io/s/github/Paul-es/test1
+--> What is HTML
+     HTML is the standard markup language for creating Web pages
