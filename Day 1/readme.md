@@ -45,12 +45,15 @@
 			     
 
 ## How to add link in HTML:
- 	
+
+ 	                <a href="https://cci-fisat.web.app/">
+			
+			Check out (example 2) 
+			
 	                href is a attribute used to specify link destination
 							   
-			HTML elements can br nested
-			   
-                    Check out (example 2) 
+			HTML elements can br nested			   
+                    
 		   
 ## How to add line breaker:
 				
