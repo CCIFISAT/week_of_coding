@@ -7,7 +7,7 @@
                 Browsers do not display the HTML tags, but use them to render the content of the page.
 		
 				
---> HTML TAGS Explained:
+--> __HTML TAGS Explained:
 			
  
        <!DOCTYPE html> declaration defines this document to be HTML
@@ -21,8 +21,8 @@
        
 Check out (example 1) :https://codesandbox.io/s/github/Paul-es/day_1  (Run this code in your text editor eg: NotePad,visual studio)
 
---> Tags normally come in pairs like <> (starting tag) </> (end tag)
+--> __Tags normally come in pairs like <> (starting tag) </> (end tag)
 
---> How to add link in HTML:
-					
-Check out (example 2) 
+--> __How to add link in HTML:
+ 
+                        Check out (example 2) 
