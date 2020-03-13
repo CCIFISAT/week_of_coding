@@ -47,9 +47,7 @@ You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/
 ## How to add link in HTML:
  	
 	                href is a attribute used to specify link destination
-			```
-			<a href="www.example.com"></a>
-			```		   
+							   
 			HTML elements can br nested
 			   
                     Check out (example 2) 
