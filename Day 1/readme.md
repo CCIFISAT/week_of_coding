@@ -1,4 +1,4 @@
-You can find out DAY 1 examples from this link: https://codesandbox.io/s/github/Paul-es/day_1
+**You can find out DAY 1 examples from this link:** https://codesandbox.io/s/github/Paul-es/day_1
 
 # What is HTML:
 
