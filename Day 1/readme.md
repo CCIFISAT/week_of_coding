@@ -6,11 +6,13 @@
 
  ### About Assignment
  
- **Assignment will be released each day 
+ **Assignment will be released each day**
  
- **You can start working with assignament after completing the examples
+ **You can start working with assignament after completing the examples**
  
- **Once to finish doing assignment you can create a pull request into CCIFISAT repo 
+ **Once to finish doing assignment you can create a pull request into CCIFISAT repo**
+ 
+ **Dont worry if you are not able to submit the assignment we will release the solution by evening each day**
 
 # What is HTML:
 
