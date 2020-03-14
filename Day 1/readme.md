@@ -13,7 +13,8 @@
 				
 # HTML TAGS Explained:
 			
- 
+**:dart: The ```<head>``` tag in HTML is used to define the head portion of the document which contains information related to the document.**
+	
        <!DOCTYPE html> declaration defines this document to be HTML
        
        <html> element is the root element of an HTML page
