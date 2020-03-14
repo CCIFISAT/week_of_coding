@@ -60,7 +60,9 @@
 				
 			   <br> is an empty element without a closing tag, the <br> tag defines a line break
 			   
-			   > Check out (example 3)
+			   
+>**Check out (example 3)**
+
 			   
 >**Do you know a thing HTML is not case sensitive**
 
@@ -75,7 +77,9 @@
 		
 		4. lang - specifying the language is important for developers and search engines
 		
-		> Check out (example 4)
+		
+>**Check out (example 4)**
+
 		
 # Other Key Elements
 
