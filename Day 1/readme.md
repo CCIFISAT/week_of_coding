@@ -179,4 +179,4 @@ Type | Description
 
 **Submit your assignment before evening**
 
-# Cool that's a wrap for Day 1.
+# :high_brightness: Cool that's a wrap for Day 1.
