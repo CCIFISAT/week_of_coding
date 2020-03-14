@@ -171,6 +171,12 @@ Type | Description
 
 # Assignment Day 1:
 
-**Create a similar HTML page according to the image provided.
+![assignment1](https://user-images.githubusercontent.com/47073691/76680186-97c2fb00-660c-11ea-833b-698b5a8f961e.jpg)
 
-**Refer the examples 
+**Create a similar HTML page according to the image provided.**
+
+**Refer the examples**
+
+**Submit your assignment before evening
+
+# Cool that's a wrap for Day 1.
