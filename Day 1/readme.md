@@ -120,8 +120,11 @@ Element | Meaning
 **```<label>```provides label for the fields**
 
 
+# HTML Class Attribute
 
+**The```class```is an attribute which specifies one or more class names for an HTML element.**
 
+**The ```<div>``` tag is known as Division tag. The div tag is used in HTML to make divisions of content in the web page.**
+
+```<span>```**tag is used for grouping and applying styles to inline elements.**
                      
-div span list head 
-
