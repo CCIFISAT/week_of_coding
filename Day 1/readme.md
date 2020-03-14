@@ -114,7 +114,18 @@ Element | Meaning
 >**You can refer more tags**: https://www.fing.edu.uy/tecnoinf/mvd/cursos/ria/material/teorico/html-tags-chart.pdf
 
 # Create a List
-**
+
+**There are two types of lists: ordered and unordered**
+
+## Ordered List:
+
+>An ordered list starts with the ```<ol>``` tag. Each list item starts with the ```<li>``` tag.
+	      			
+				<ol>
+  				    <li>Coffee</li>
+  			            <li>Tea</li>
+				</ol> 
+
 Type | Description
 ------------ | -------------
 ```type="1"``` | Numbers
