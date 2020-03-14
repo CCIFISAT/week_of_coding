@@ -169,4 +169,8 @@ Type | Description
 
 >:mega: **Check out (example 7)**
 
-                     
+# Assignment Day 1:
+
+**Create a similar HTML page according to the image provided.
+
+**Refer the examples 
