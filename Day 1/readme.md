@@ -64,7 +64,7 @@
 >:mega: **Check out (example 3)**
 
 			   
->**Do you know a thing HTML is not case sensitive**
+>**:warning: Do you know a thing HTML is not case sensitive**
 
 
 # HTML Attributes	
