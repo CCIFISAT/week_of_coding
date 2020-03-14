@@ -49,12 +49,13 @@
  	                <a href="https://cci-fisat.web.app/">
 			
 	                href is a attribute used to specify link destination
+							
+			HTML elements can br nested	
 			
-		         Check out (example 2) 
-				
-			HTML elements can br nested			   
-                    
-		   
+			
+>**Check out (example 2)**
+
+	   
 ## How to add line breaker:
 				
 			   <br> is an empty element without a closing tag, the <br> tag defines a line break
