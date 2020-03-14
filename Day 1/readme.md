@@ -127,4 +127,7 @@ Element | Meaning
 **The ```<div>``` tag is known as Division tag. The div tag is used in HTML to make divisions of content in the web page.**
 
 ```<span>```**tag is used for grouping and applying styles to inline elements.**
+
+>:mega: **Check out (example 7)**
+
                      
