@@ -4,13 +4,13 @@
 
 *Run example code in your text editor eg: NotePad,visual studio*
 
- ### About Assignment
+ # About Assignment
  
  **Assignment will be released each day**
  
  **You can start working with assignament after completing the examples**
  
- **Once to finish doing assignment you can create a pull request into CCIFISAT repo**
+ **Once you finish doing assignment you can create a pull request into CCIFISAT repo**
  
  **Dont worry if you are not able to submit the assignment we will release the solution by evening each day**
 
