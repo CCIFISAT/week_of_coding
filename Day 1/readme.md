@@ -119,7 +119,7 @@ Element | Meaning
 
 ## Ordered List:
 
->An ordered list starts with the ```<ol>``` tag. Each list item starts with the ```<li>``` tag.
+>:dart: An ordered list starts with the ```<ol>``` tag. Each list item starts with the ```<li>``` tag.
 	      			
 				<ol>
   				    <li>Coffee</li>
@@ -133,6 +133,10 @@ Type | Description
 ```type="a"``` | Lowercase Letters
 ```type="I"``` | Uppercase Roman Letters
 ```type="i"``` | Lowercase Roman Letters
+
+## Unorederd List:
+
+>:dart: An unordered list starts with the ```<ul>``` tag. Each list item starts with the ```<li>``` tag.
 
    >:mega: **Check out (example 5)**
   
