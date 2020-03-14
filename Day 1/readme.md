@@ -2,7 +2,7 @@
 
 **You can find out DAY 1 examples from this link:** https://codesandbox.io/s/github/Paul-es/day_1
 
-*Run example 1 code in your text editor eg: NotePad,visual studio*
+*Run example code in your text editor eg: NotePad,visual studio*
 
 # What is HTML:
 
