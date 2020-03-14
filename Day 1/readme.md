@@ -4,13 +4,21 @@
 
 *Run example code in your text editor eg: NotePad,visual studio*
 
+ ### About Assignment
+ 
+ **Assignment will be released each day 
+ 
+ **You can start working with assignament after completing the examples
+ 
+ **Once to finish doing assignment you can create a pull request into CCIFISAT repo 
+
 # What is HTML:
 
 **HTML is the standard markup language for creating Web pages.** 
 		
 **It describes the structure of a website.**
 		    
-**HTML elements are represented by tags.** 
+**HTML elements are represented by tags.**
 		    
 **Browsers do not display the HTML tags, but use them to render the content of the page.**
 		
