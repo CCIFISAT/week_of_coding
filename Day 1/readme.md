@@ -87,6 +87,8 @@ Element | Meaning
 ```<strike>``` | Strike text out
 ```<u>``` | Underline the text
 
+>** You can refer more tags: https://www.fing.edu.uy/tecnoinf/mvd/cursos/ria/material/teorico/html-tags-chart.pdf
+
 # Create a List
 
    >**Check out (example 5)**
