@@ -177,6 +177,6 @@ Type | Description
 
 **Refer the examples**
 
-**Submit your assignment before evening
+**Submit your assignment before evening**
 
 # Cool that's a wrap for Day 1.
