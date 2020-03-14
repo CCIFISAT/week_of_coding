@@ -32,7 +32,7 @@
 	   <a> to add link
 	   
        
-## Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
+## :mega: Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
 
 
 >**Tags normally come in pairs like <> (starting tag) </> (end tag).**
@@ -53,7 +53,7 @@
 			HTML elements can br nested	
 			
 			
->**Check out (example 2)**
+>:mega: **Check out (example 2)**
 
 	   
 ## How to add line breaker:
@@ -61,7 +61,7 @@
 			   <br> is an empty element without a closing tag, the <br> tag defines a line break
 			   
 			   
->**Check out (example 3)**
+>:mega: **Check out (example 3)**
 
 			   
 >**Do you know a thing HTML is not case sensitive**
@@ -69,7 +69,7 @@
 
 # HTML Attributes	
      
-        	1. href
+        	1. href 
 		
 		2. src - Name of the file
 		
@@ -78,7 +78,7 @@
 		4. lang - specifying the language is important for developers and search engines
 		
 		
->**Check out (example 4)**
+>:mega: **Check out (example 4)**
 
 		
 # Other Key Elements
@@ -96,11 +96,11 @@ Element | Meaning
 
 # Create a List
 
-   >**Check out (example 5)**
+   >:mega: **Check out (example 5)**
   
 # HTML Forms
 
->**check out (example 6)**
+>:mega: **check out (example 6)**
 
 **```<form>```element defines a form that is used to collect user input**
 
@@ -109,9 +109,6 @@ Element | Meaning
 **the type attribute specifies the type of ```<input>``` element to display.**
 
 **```<label>```provides label for the fields**
-
-
-
 
 
 
