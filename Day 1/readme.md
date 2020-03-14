@@ -173,7 +173,7 @@ Type | Description
 
 ![assignment1](https://user-images.githubusercontent.com/47073691/76680186-97c2fb00-660c-11ea-833b-698b5a8f961e.jpg)
 
-**Create a similar HTML page according to the image provided.**
+**Create a similar HTML page according to the image provided above.**
 
 **Refer the examples**
 
