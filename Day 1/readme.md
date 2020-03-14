@@ -1,4 +1,8 @@
+# Basic Instructions
+
 **You can find out DAY 1 examples from this link:** https://codesandbox.io/s/github/Paul-es/day_1
+
+*Run example 1 code in your text editor eg: NotePad,visual studio*
 
 # What is HTML:
 
@@ -37,7 +41,7 @@
 **```<a>``` to add link**
 	   
        
->**:mega: Check out (example 1)** (Run example 1 code in your text editor eg: NotePad,visual studio)
+>**:mega: Check out (example 1)** 
 
 
 ### :dart: Tags normally come in pairs like <> (starting tag) </> (end tag).
