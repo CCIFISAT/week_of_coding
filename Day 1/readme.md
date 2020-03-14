@@ -14,6 +14,13 @@
 # HTML TAGS Explained:
 			
 **:dart: The ```<head>``` tag in HTML is used to define the head portion of the document which contains information related to the document.**
+    
+                            <head>
+		       
+			          <title> Title of the document </title>
+			       
+			       </head>
+			
 	
 **```<!DOCTYPE html>``` declaration defines this document to be HTML**
        
