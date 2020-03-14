@@ -114,6 +114,14 @@ Element | Meaning
 >**You can refer more tags**: https://www.fing.edu.uy/tecnoinf/mvd/cursos/ria/material/teorico/html-tags-chart.pdf
 
 # Create a List
+**
+Type | Description
+------------ | -------------
+```type="1"``` | Numbers
+```type="A"``` | Uppercase Letters
+```type="a"``` | Lowercase Letters
+```type="I"``` | Uppercase Roman Letters
+```type="i"``` | Lowercase Roman Letters
 
    >:mega: **Check out (example 5)**
   
