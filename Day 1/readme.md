@@ -15,21 +15,19 @@
 			
 **:dart: The ```<head>``` tag in HTML is used to define the head portion of the document which contains information related to the document.**
 	
-       <!DOCTYPE html> declaration defines this document to be HTML
+**```<!DOCTYPE html>``` declaration defines this document to be HTML**
        
-       <html> element is the root element of an HTML page
+**```<html>``` element is the root element of an HTML page**
+              
+**```<title>``` element specifies a title for the document**
        
-       <head> element contains information about the document
+**```<body>``` element contains the visible page content**
        
-       <title> element specifies a title for the document
+**```<h1>``` element defines a large size heading,```<h2>``` little bit smaller than h1, so the number defines the size h3,h4 upto ```<h6>```**
        
-       <body> element contains the visible page content
+**```<p>``` element defines a paragraph.**
        
-       <h1> element defines a large size heading,<h2> little bit smaller than h1, so the number defines the size h3,h4 etc.
-       
-       <p> element defines a paragraph.
-       
-	   <a> to add link
+**```<a>``` to add link**
 	   
        
 ## :mega: Check out (example 1) (Run example 1 code in your text editor eg: NotePad,visual studio)
