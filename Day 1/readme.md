@@ -137,6 +137,12 @@ Type | Description
 ## Unorederd List:
 
 >:dart: An unordered list starts with the ```<ul>``` tag. Each list item starts with the ```<li>``` tag.
+	
+				   <ul>
+  					<li>Coffee</li>
+ 				        <li>Tea</li>
+  			                <li>Milk</li>
+				   </ul> 
 
    >:mega: **Check out (example 5)**
   
