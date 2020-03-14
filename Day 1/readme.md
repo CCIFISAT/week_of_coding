@@ -40,7 +40,7 @@
 >**:mega: Check out (example 1)** (Run example 1 code in your text editor eg: NotePad,visual studio)
 
 
-### Tags normally come in pairs like <> (starting tag) </> (end tag).
+### :dart: Tags normally come in pairs like <> (starting tag) </> (end tag).
 			
 			
 			     <p>
@@ -63,7 +63,7 @@
 	   
 ## How to add line breaker:
 				
-			   <br> is an empty element without a closing tag, the <br> tag defines a line break
+		<br> is an empty element without a closing tag, the <br> tag defines a line break
 			   
 			   
 >:mega: **Check out (example 3)**
