@@ -2,7 +2,7 @@
 
 **You can find out DAY 1 examples from this link:** https://codesandbox.io/s/github/Paul-es/day_1
 
-**Getting Started With Github:** https://youtu.be/zMgrv4PFt3M
+**Getting Started With Git:** https://youtu.be/zMgrv4PFt3M
 
 *Run example code in your text editor eg: NotePad,visual studio*
 
