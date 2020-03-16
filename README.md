@@ -1,4 +1,4 @@
-# Set uu Git Global User
+# Set up Git Global User
 
 **To set your global username/email configuration:**            
 
