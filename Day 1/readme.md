@@ -4,6 +4,10 @@
 
 **Getting Started With Git:** https://youtu.be/zMgrv4PFt3M
 
+**How to use Git and Github:** https://youtu.be/jQiSOmQrq-A
+
+**How to create a branch in a repo:** https://youtu.be/6xVA7LnBqL4
+
 *Run example code in your text editor eg: NotePad,visual studio*
 
  # :pushpin: About Assignment
