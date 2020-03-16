@@ -6,7 +6,7 @@
 
 **How to use Git and Github:** https://youtu.be/jQiSOmQrq-A
 
-**How to create a branch in a repo:** https://youtu.be/6xVA7LnBqL4
+**How to create a branch in any repo:** https://youtu.be/6xVA7LnBqL4
 
 *Run example code in your text editor eg: NotePad,visual studio*
 
