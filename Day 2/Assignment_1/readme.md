@@ -1,4 +1,4 @@
-# Instructions about Assignment 1
+# Instructions
 
 **Create a similar webpage according to the image provided**
 
