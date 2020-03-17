@@ -6,7 +6,7 @@
                          
 **Set your username:**
 
-git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.name "joseph paul"
 
 **Set your email address:** 
 
