@@ -1,4 +1,4 @@
-# Welcome To Day 2 
+# Welcome To Day 2 :tada:
 **Today we will learn how to design a Website using CSS.**
 
 # What is CSS
