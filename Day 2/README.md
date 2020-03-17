@@ -356,6 +356,11 @@ Monospace |   	Courier New, Lucida Console
 **```<a``` href="example.html" target="_blank">Click!!!```</a>```**
 
 **Specify in ```href``` to which page you need to direct.**
+
+>**:mega: Checkout (Example 7)**
+
+
+# Cool that's a wrap for Day 2 :beers:
    
    
    
