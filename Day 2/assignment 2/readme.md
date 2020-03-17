@@ -1,4 +1,4 @@
-# Instructions about Assignment 2
+# Instructions
 
 **The code which we provide is incomplete / not structured properly.**
 
