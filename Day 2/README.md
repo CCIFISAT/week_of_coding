@@ -1,7 +1,9 @@
 # Welcome To Day 2 :tada:
-**Today we will learn how to design a Website using CSS.**
+
+**:triangular_flag_on_post: Today we will learn how to design a Website using CSS.**
 
 # What is CSS
+
 **CSS stands for Cascading Style Sheets.**         
 
 **CSS describes how HTML elements are to be displayed on screen.**  
@@ -348,6 +350,12 @@ Monospace |   	Courier New, Lucida Console
   **The```hover``` selector is used to select elements when you mouse over them. The :hover selector can be used on all     elements**
   
  >**:mega:Checkout (Example 6)**
+ 
+ # Navigate to another HTML Page:
+ 
+**```<a``` href="example.html" target="_blank">Click!!!```</a>```**
+
+**Specify in ```href``` to which page you need to direct.**
    
    
    
