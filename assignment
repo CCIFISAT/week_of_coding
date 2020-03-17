@@ -1,0 +1,35 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>
+			cities
+		</title>
+	</head>
+<body>
+	<h1>THE FAMOUS PILLARS</h1
+			<br><br>
+				<p><h2>London</h2>
+				<br><br>
+				The clock inside the tower was the world's largest when it was installed in the middle of the nineteenth century.
+				The name Big Ben actually refers to the clock's hour bell, the largest of the clock's five bells. The other four are used as quarter bells.
+
+			<br><br><br><b>THE BIG BEN</b></p> 
+				<img src="https://raw.githubusercontent.com/CCIFISAT/week_of_coding/master/Day%201/img/london.jpeg " >
+	<p><h2>Paris</h2>
+		<br><br>
+		<p>You couldn't possibly visit Paris without seeing the Eiffel Tower. Even if you 
+		do not want to visit this world famous structure, you will see its top from all over Paris. The tower rises 300 meters
+		tall (984 ft); when it was completed at the end of the nineteenth century it was twice as high as the Washington Monument, at the
+		time the tallest structure in the world.
+		<br><br><br><b>THE EIFFEL TOWER</b></p>
+		<img src="https://raw.githubusercontent.com/CCIFISAT/week_of_coding/master/Day%201/img/paris.jpeg">
+	<p><h2>Tokyo</h2>
+		<br><br>
+		<p> aStanding 333 meters high in the center of Tokyo, Tokyo Tower (東京タワー) is the world's tallest, self-supported steel tower and 
+		13 meters taller than its model, the Eiffel Tower. A symbol of Japan's post-war rebirth as a major economic power, Tokyo Tower was the 
+		country's tallest structure from its completion in 1958 until 2012 when it was surpassed by the Tokyo Skytree. In addition to being a popular
+		tourist spot, Tokyo Tower serves as a broadcast antenna.
+		<br><br><br><b>THE TOKYO TOWER</b></p>
+		<img src="https://raw.githubusercontent.com/CCIFISAT/week_of_coding/master/Day%201/img/tokyo.jpeg">
+</body>
+</html>
