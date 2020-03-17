@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FISAT CANTEEN</title>
+</head>
+<h1>FISAT CANTEEN</h1>
+<body>
+<ol type="I">
+ <li>&nbsp&nbsp<b>Snacks</b></li>
+	<ul style="list-style-type:circle;">
+	  <p><li><i>Samosa:</i>&nbsp&nbsp&nbspRs.10</li>
+	  A <u>samosa</u> is a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, cheese, meat, or lentils.</p>
+	  <img src="file:///home/anet/week_of_coding/Day 1/assignment/samosa.jpg" alt="Samosa" width="150" height="150">
+
+	  <p><li><i>Meat Rolls:</i>&nbsp&nbsp&nbspRs.10</li>
+	  <u>Meat Roll</u> is a basic bread stuffed with cooked minced meat stew.</p>
+	  <img src="file:///home/anet/week_of_coding/Day 1/assignment/meatroll.jpg" alt="Meat Rolls" width="150" height="150">
+</ul>
+</ol>
+</body>
+</html>
