@@ -25,11 +25,12 @@ ul {
       text-align: center;
   }
   h1{
-    text-align: center;
-    padding-top: 20%;
+    text-align: left;
+    color: azure;
+    letter-spacing: 50px;
   }
   body {
-    background-image: url("../img/space4.jpeg");
+    background-image: url("background-blur-clean-clear-531880.jpg");
     background-size: cover;
      }
   
