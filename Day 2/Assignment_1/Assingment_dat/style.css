@@ -29,6 +29,33 @@ ul {
     color: azure;
     letter-spacing: 50px;
   }
+  h2{
+    text-align: left;
+    color: azure;
+    letter-spacing: 30px;
+  }
+  h3{
+    text-align: left;
+    color: azure;
+    letter-spacing: 10px;
+  }
+  .ourworks {
+    background-color: gray;
+    color: white;
+    padding: 5px 49%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .ourworks2 {
+    background-color: white;
+    color: black;
+    padding: 5px 49%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
   body {
     background-image: url("background-blur-clean-clear-531880.jpg");
     background-size: cover;
