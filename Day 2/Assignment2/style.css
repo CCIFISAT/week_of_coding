@@ -1,0 +1,40 @@
+.para1 {
+	background-image: url("bg.jpeg");
+	background-attachment: fixed;
+	font-family: arial;
+	background-size: cover;
+	margin-left: -20px;
+	margin-right: -20px;
+	margin-top: -20px;
+	margin-bottom: -30px;
+	background-position: center;
+	height: 100%;
+}
+
+h1 {
+	color: bright;
+	border: 2cm semi-solid blue;
+	margin: automatic;
+}
+
+p {
+	background-color: red
+	margin: 2cm;
+	border-side: 5cm;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hide;
+}
+.note{
+	padding-left: 600px;
+	padding-top: 300px;
+	color: white;
+
+}
+.box{
+	padding-left: 10px;
+	padding-top: 10px;
+}
