@@ -1,0 +1,31 @@
+body {
+	background-image: url("day2.jpg");
+	background-attachment: fixed;
+	
+}
+
+h1 {
+	color: green;
+	
+	border: 2px solid red;
+	margin: auto;
+	padding-top: 15px;
+        padding-right:15px;                       
+	
+        padding-left: 15px;
+}
+               
+p {
+	background-color:yellow ;
+	border: 5px dotted red;
+	text-decoration: none;
+	padding-top: 50px;
+        padding-right:50px;                       
+	padding-bottom: 50px;
+        padding-left: 50px;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hidden;
+}
