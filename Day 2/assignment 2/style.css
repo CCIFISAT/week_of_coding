@@ -5,19 +5,29 @@ body {
 }
 
 h1 {
-	color: bright;
+	color: red;
 	border: 2cm semi-solid blue;
 	margin: automatic;
 }
                
 p {
-	background-color: red
+	background-color: blue
 	margin: 2cm;
 	border-side: 5cm;
 	text-decoration: none;
+    font-size=3em
 }
 
 ul {
 	list-style-type: none;
 	overflow: hide;
+}
+.para1{
+    colour:blue;
+    font-size:2em;
+}
+h2{
+    text-shadow: 4px 3px brown;
+        text-align: left;
+        font-size: 2.5rem;
 }
