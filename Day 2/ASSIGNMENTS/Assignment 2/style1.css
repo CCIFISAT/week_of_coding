@@ -1,0 +1,24 @@
+h1 {
+	color: red;
+    text-shadow: 2px 2px blue;
+	margin: auto;
+}
+
+body {
+	background-image: url("cci.jpg");
+	background-attachment: fixed;
+	font-family: arial;
+}
+
+               
+p {
+    background-color: red;
+    margin: 2cm;
+    border-style: 5cm;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hide;
+}
