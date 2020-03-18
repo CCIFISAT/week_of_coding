@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2C4AF1;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #2B3EA9;
+  }
+  
+  p{
+      text-align: center;
+  }
+  h1{
+    text-align: center;
+    padding-top: 20%;
+  }
+  body {
+    background-image: url("../img/space4.jpeg");
+    background-size: cover;
+     }
+  
