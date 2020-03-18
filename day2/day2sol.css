@@ -1,28 +1,23 @@
 body {
-	background-image: url("mountain.jpeg");
+	background-image: url("cci.jpeg");
 	background-attachment: fixed;
-	
+	font-family: Arial, sans-serif;
 }
 
 h1 {
 	color: green;
-	
 	border: 2px solid red;
 	margin: auto;
-	padding-top: 15px;
-        padding-right:15px;                       
 	
-        padding-left: 15px;
+       
 }
                
 p {
 	background-color:yellow ;
 	border: 5px dotted red;
+	margin: 2cm;
 	text-decoration: none;
-	padding-top: 50px;
-        padding-right:50px;                       
-	padding-bottom: 50px;
-        padding-left: 50px;
+	
 }
 
 ul {
