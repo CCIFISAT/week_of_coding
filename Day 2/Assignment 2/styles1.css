@@ -1,0 +1,31 @@
+body {
+	background-image: url(img2/wood.jpeg);
+	background-attachment: fixed;
+	font-family: arial;
+	background-size: cover;
+}
+.para1 p{
+	font-size: 20px;
+	color:white;
+	padding-left: 250px;
+	padding-top: 200px;
+}
+.button a{
+	padding-left: 450px;
+	color:brown; 
+}
+.link img{
+	padding-left : 500px;
+	padding-top: 20px;
+}
+
+.button a {
+  background-color: brown;
+  color: white;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+	margin-left: 450px;
+
+}
