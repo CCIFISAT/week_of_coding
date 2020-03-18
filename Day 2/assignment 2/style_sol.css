@@ -1,0 +1,27 @@
+body {
+	background-image: url("bg1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+	font-family: arial;
+}
+
+h1 {
+	color: red; /*any color would do */
+	border: 2px solid blue;
+	margin: auto;
+}
+a{
+    color: white;
+}
+               
+p {
+	background-color: red;
+	margin: 2px;
+	border-right: 5px;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hidden;
+}
