@@ -22,7 +22,7 @@ ul {
   }
   
   p{
-      text-align: center;
+      color: aliceblue;
   
   }
   h1{
@@ -31,6 +31,11 @@ ul {
   }
   body{
       background-image: url("space1.jpeg");
-      background-size: cover;
+      background-size: 1500px 490px;
+      background-repeat: no-repeat;
+  }
+  pre{
+    color: aliceblue;
+    font-size: 3rem;
   }
   
