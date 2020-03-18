@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+<title> ASSIGNMENT2</title>
+
+<head>
+
+<style>
+
+body {
+	background-image: url("cci.jpg");
+	background-attachment: fixed;
+	font-family: arial;
+}
+
+h1 {
+	color: bright;
+	border: 2cm solid blue;
+	margin: automatic;
+}
+               
+p {
+	background-color: red;
+	margin: 2 cm;
+	border-side: 5 cm;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hide;
+}
+</style>
+
+</head>
+
+	<h1><b>PLASTIC</b></h1>
+
+	<body>
+		<p>
+
+		DISADVANTAGES OF PLASTIC
+
+		</p>
+	<ul><b>
+
+	<li>PLASTIC IS ONE OF THE MOST DANGEROUS MATERIAL IN EARTH. </li><br>
+
+	<li>IT CAUSES DISEASES LIKE CANCER SKIN PROBLEMS ETC. </li><br>
+
+	<li>AS THE POWER OF DEGRADATION IS LESS IT CAUSES ENVIRONMENTAL ISSUES LIKE CLOGGING OF WATER ETC.</li></b>
+	
+	</ul>
+
+	</body>
+</html>
