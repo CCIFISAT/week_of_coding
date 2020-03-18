@@ -1,0 +1,23 @@
+body {
+	background-image: url("cci.jpg");
+	background-attachment: fixed;
+	font-family: arial;
+}
+
+h1 {
+	color: bright;
+	border: 2cm semi-solid blue;
+	margin: automatic;
+}
+               
+p {
+	background-color: red
+	margin : 2cm 2cm 2cm 2cm;
+	border-side: 5cm,5cm 5cm 10cm;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hide;
+}
