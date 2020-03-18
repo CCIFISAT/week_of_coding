@@ -47,15 +47,16 @@ ul {
     text-decoration: none;
     display: inline-block;
   }
-  .ourworks2 {
+  .content {
     background-color: white;
     color: black;
-    padding: 5px 49%;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+    text-align: left;
   }
-
+  h4{
+    text-align: left;
+    color: white;
+  }
+  
   body {
     background-image: url("background-blur-clean-clear-531880.jpg");
     background-size: cover;
