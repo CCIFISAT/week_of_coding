@@ -1,7 +1,10 @@
-body {
-	background-image: url("cci.jpg");
+.para1{
+	background-image: url("cci.jpeg");
 	background-attachment: fixed;
 	font-family: arial;
+	margin: 2cm;
+	border-left: 5cm;
+	text-decoration: none;
 }
 
 h1 {
@@ -11,9 +14,9 @@ h1 {
 }
                
 p {
-	background-color: red
+	background-color: red;
 	margin: 2cm;
-	border-side: 5cm;
+	border-left: 5cm;
 	text-decoration: none;
 }
 
