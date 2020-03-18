@@ -1,0 +1,30 @@
+body{
+    padding-left: 250px;
+}
+h1{
+    color: green;
+    text-decoration: underline;
+}
+ .gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+    margin-top: 250px;
+    margin-left: 20px;
+   }
+  
+  .gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .desc {
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+  }
