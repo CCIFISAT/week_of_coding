@@ -2,22 +2,16 @@ body {
 	background-image: url("cci.jpg");
 	background-attachment: fixed;
 	font-family: arial;
-}
+	background-color: burlywood;
 
-h1 {
-	color: bright;
-	border: 2cm semi-solid blue;
-	margin: automatic;
 }
                
-p {
-	background-color: red
-	margin: 2cm;
-	border-side: 5cm;
-	text-decoration: none;
-}
 
-ul {
-	list-style-type: none;
-	overflow: hide;
-}
+a:link {
+	background-color: red;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+  }
