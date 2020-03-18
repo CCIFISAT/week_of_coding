@@ -11,3 +11,6 @@ git config --global user.name "FIRST_NAME LAST_NAME"
 **Set your email address:** 
 
 git config --global user.email "MY_NAME@example.com"
+
+# Join our WhatsApp Discussion:
+https://chat.whatsapp.com/LxssmcLbrny1Zr3j7GNjQ6

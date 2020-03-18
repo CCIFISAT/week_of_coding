@@ -1,0 +1,45 @@
+ .para{
+
+    border: solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 700px;
+    font-size: 2rem;
+    max-width: 400px;
+  text-align: center;
+    background-color: lightblue;
+
+  }
+  
+h1
+{
+    color: white;
+    padding-left: 770px;
+    font-size: 3rem;
+    height: 100px;
+}
+.day
+   {
+       color: white;
+       font-size: 2rem;
+        padding: 60px;
+        text-align: center;
+      }
+
+  /*uncomment to use */
+/*
+  .para {
+    width: 400px;
+    margin: auto;
+    border:  solid red;
+    font-size: 2rem;
+    color: white;
+  }
+  */
+
+  body {
+    background-image: url("test1.jpg");
+  /* cover is used to make background image to fit the screen size */
+    background-size: cover;
+     }

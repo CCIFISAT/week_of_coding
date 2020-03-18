@@ -1,8 +1,14 @@
 # Basic Instructions
 
-**You can find out DAY 1 examples from this link:** https://codesandbox.io/s/github/Paul-es/day_1
+**You can also find out DAY 1 examples from this link:** https://codesandbox.io/s/github/Paul-es/day_1
 
 **Getting Started With Git:** https://youtu.be/zMgrv4PFt3M
+
+**How to use Git and Github:** https://youtu.be/jQiSOmQrq-A
+
+**How to create a branch in any repo:** https://youtu.be/6xVA7LnBqL4
+
+**How to submit your assignment:** https://youtu.be/VtE4mtz1SQU
 
 *Run example code in your text editor eg: NotePad,visual studio*
 
