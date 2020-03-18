@@ -1,0 +1,24 @@
+h1
+{
+    font-family: Verdana, sans-serif;
+    color: white;
+    font-size: 3rem;
+}
+
+p {
+    border: solid green;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+.day{
+      color: red;
+      font-size: 2rem;
+
+ }
+ body {
+    background-image: url("test1.jpg");
+  /* cover is used to make background image to fit the screen size */
+    background-size: cover;
+     }
