@@ -1,0 +1,23 @@
+body {
+	background-image: url("fiz.jpg");
+	background-attachment: fixed;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	color: red;
+	border: 4px dotted blue;
+	margin: auto;
+}
+               
+p {
+	background-color: red;
+	margin: 2cm;
+	border: 5cm;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hidden;
+}
