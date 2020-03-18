@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+<title> 2nd assigment</title>
+
+<head>
+<style>
+
+body {
+	background-image: url("cci.jpg");
+	background-attachment: fixed;
+	font-family: arial;
+}
+
+h1 {
+	color: bright;
+	border: 2cm solid blue;
+	margin: automatic;
+}
+               
+p {
+	background-color: red;
+	margin: 2 cm;
+	border-side: 5 cm;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	overflow: hide;
+}
+</style>
+</head>
+
+	<h1><b>fire</b></h1>
+
+	<body>
+		<p>
+		USES OF FIRE
+		</p>
+	<ul><b>
+	<li>USED BY HUMANS FOR RITUALS. </li><br>
+	<li>TO CLEAR AGRICULTURAL . </li><br>
+	<li>USED FOR COOKING.</li></b>
+	
+	</ul>
+
+	</body>
+</html>
