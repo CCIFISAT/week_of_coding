@@ -178,12 +178,6 @@ ___
 |/=|x /= y|x = x / y|x = 2|
 |%=|x %= y|x = x % y|x = 0|
 
-### String operators
-|Operator|Example|text1|text2|text3|
-|--- |--- |--- |--- |--- |--- |
-|+|text3 = text1 + text2|"Good "|"Morning"|"Good Morning"|
-|+=|text1 += text2|"Good "|"Morning"|"Good Morning"|
-
 
 ### Comparison operartors
 |Operator|Description|Comparing|Returns|
