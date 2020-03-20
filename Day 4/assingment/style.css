@@ -2,6 +2,20 @@
     margin: 0;
     padding: 0;
 }
+#fTank{
+    margin: auto auto;
+    width: 960px;
+    height: 540px;
+    position: relative;
+    background: #20a3a3;
+  }
+  
+#mvFish{
+    margin: auto auto;
+    width: 117px;
+    height: 95px;
+    position: absolute;
+  }
 
 .head{
     display: flex;
@@ -10,6 +24,13 @@
     margin: auto;
     justify-content: center;
     font-size: 40px;
-    background-color: aqua;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn{
+    display: flex;
+    flex: 1;
+    font-size: 15px;
+    margin: auto auto;
+    
 }

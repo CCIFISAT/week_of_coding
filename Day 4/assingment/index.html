@@ -10,5 +10,59 @@
     <header class="head">
         Aquarium
     </header>
+    <button class="btn" onclick="run()">run</button>
+    <div id ="fTank">
+        <img  id ="mvFish" src="PikPng.com_dr-seuss-fish-png_5681430.png"/>
+        </div>
+
+    <script>
+    
+    function run() {
+       
+       var flag = 0;
+       var swim = document.getElementById("mvFish");   
+       var pos = mvFish.getBoundingClientRect().left
+       var id = setInterval(frame, .5);
+       function frame() 
+       {
+         console.log(flag);
+         console.log(pos);
+         if (pos == 844) 
+         {  
+            flag =1;  
+            if(flag==1)
+             {
+             pos--;
+             swim.style.left = pos - '.5px';
+             swim.style.transform="scaleX(-1)"
+             }                  
+         } 
+         else if (pos<=843 && flag==0) 
+         {
+           pos++; 
+           swim.style.left = pos + '.5px';
+           swim.style.transform="scaleX(1)"
+     
+         }
+
+         else if(pos<=0 && flag==1)
+         {
+           pos = 0;
+           flag = 0;
+           pos++; 
+           swim.style.left = pos + '.5px';
+           swim.style.transform="scaleX(-1)"
+
+         }
+         else if(pos<=843 && flag==1) 
+         {
+           pos--; 
+           swim.style.left = pos + '.5px';
+           swim.style.transform="scaleX(-1)"
+
+         }
+      }
+     }
+    </script>
 </body>
 </html>
