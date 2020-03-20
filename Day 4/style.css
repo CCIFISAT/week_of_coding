@@ -1,0 +1,17 @@
+#fishTank{
+    width: 960px;
+    height: 540px;
+    position: relative;
+    background: #276e82;
+    border: 4px brown;
+  }
+  
+  #moveFish{
+    width: 117px;
+    height: 95px;
+    position: absolute;
+  }
+body{
+
+  background-color: rgb(233, 233, 91);
+}
