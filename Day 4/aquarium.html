@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF=8">
+<link rel="stylesheet" href="style.css">
+<body>
+<center>
+<h1>Welcome to my Aquarium</h1>
+<h2>Featuring a Clown Fish!</h2>
+</center>
+
+
+<p><center>
+<button onclick="myMove()">Start!</button></center>
+</p>
+
+<div id ="fishTank">
+<img  id ="moveFish" src="nemo.png"/>
+</div>
+
+<script>
+  fishTank.style.border = "solid brown 10px";
+        function myMove() {
+       
+          var flag = 0;
+          var swim = document.getElementById("moveFish");   
+          var pos = moveFish.getBoundingClientRect().left
+          var id = setInterval(frame, .5);
+          function frame() 
+          {
+            console.log(flag);
+            console.log(pos);
+            if (pos == 844) 
+            {  
+               flag =1;  
+               if(flag==1)
+                {
+                pos--;
+                swim.style.left = pos - '.5px';
+                swim.style.transform="scaleX(-1)"
+                }                  
+            } 
+            else if (pos<=843 && flag==0) 
+            {
+              pos++; 
+              swim.style.left = pos + '.5px';
+              swim.style.transform="scaleX(1)"
+        
+            }
+
+            else if(pos<=0 && flag==1)
+            {
+              pos = 0;
+              flag = 0;
+              pos++; 
+              swim.style.left = pos + '.5px';
+              swim.style.transform="scaleX(-1)"
+
+            }
+            else if(pos<=843 && flag==1) 
+            {
+              pos--; 
+              swim.style.left = pos + '.5px';
+              swim.style.transform="scaleX(-1)"
+
+            }
+            
+          
+         }
+        }
+        </script>
+
+</body>
+</html>
