@@ -1,5 +1,4 @@
-  
-  var fishstyle;   
+ var fishstyle;   
      
  fishstyle = document.getElementById("fish");     
  var i=fish.getBoundingClientRect().left;
