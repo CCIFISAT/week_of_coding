@@ -42,11 +42,11 @@ Bootstrap is the world’s most popular framework for building responsive, mobil
 Responsive Web design is the approach that suggests that design and development should respond to the user’s behavior and environment based on screen size, platform and orientation.
 
 #### A non-responsive webpage:
-<img src="/assets/non-resp.gif"> 
+<img src="/Day 5/assets/non-resp.gif"> 
 The webpage does not change or adapt to the smaller screen sizes.
 
 #### A responsive webpage:
-<img src="/assets/resp.gif"> 
+<img src="/Day 5/assets/resp.gif"> 
 You can see that the webpage changes its form depending on the screen-size.
 
 ### Breakpoints
