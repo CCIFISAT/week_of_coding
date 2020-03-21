@@ -1,0 +1,73 @@
+body{
+  background-image: url("background.jpeg");
+  background-size: cover;
+
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  padding-right: 20px;
+
+}
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 16px;
+
+}
+li a:hover {
+  background-color: #a9a9a9;
+
+}
+h2{
+  font-family: 'Volkhov', serif;
+  color: white;
+  font-size: 60px;
+  padding-top: 20px;
+}
+.details{
+  font-size: 20px;
+  color: white;
+  padding-left: 20px;
+  margin-bottom: 700px;
+}
+.works{
+  text-align: center;
+  background-color: grey;
+  padding-bottom:5px;
+  padding-top: 10px;
+  margin-top: 700px;
+
+}
+.Heading{
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Volkhov', serif;
+  background-color: white;
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+.description{
+  background-color: white;
+  margin-left: -10px;
+  padding-left: 20px;
+  margin-top: 0px;
+  padding-bottom: 25px;
+}
+@media screen and(max-width:1024px) {
+  .nav-links{
+    width:100%;
+  }
+}
