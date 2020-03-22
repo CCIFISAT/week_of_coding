@@ -119,3 +119,19 @@ Check ```example6.html```
 Documentation and examples for Bootstrap’s powerful, responsive navigation header, the navbar.
 
 Check ```example7.html```
+
+# Today's Assignment
+
+The assignment is to make a webpage as in the screenshots provided in the assignment folder.
+
+### Note:
+
+* You are free to add your own content into the website, but basic elements as in the screenshots provided must be used.
+* You can use the images provided or feel free to use your own.
+
+### Hints:
+
+* The social media icons used here are used from importing fontawesome to the project. You can google it or contact one of us on how to do it.
+* Make good use of the grid system taught yesterday to make the page look good on desktop and mobile.
+
+Cheers, and get coding!
