@@ -124,6 +124,26 @@ Check ```example7.html```
 
 The assignment is to make a webpage as in the screenshots provided in the assignment folder.
 
+### Screenshots:
+
+#### Desktop:
+
+<img src="assignment/Screenshot&#32;(2).png">
+<img src="assignment/Screenshot&#32;(3).png">
+<img src="assignment/Screenshot&#32;(4).png">
+<img src="assignment/Screenshot&#32;(5).png">
+<img src="assignment/Screenshot&#32;(6).png">
+
+#### Mobile:
+
+<img src="assignment/Screenshot&#32;(7).png">
+<img src="assignment/Screenshot&#32;(8).png">
+<img src="assignment/Screenshot&#32;(9).png">
+<img src="assignment/Screenshot&#32;(10).png">
+<img src="assignment/Screenshot&#32;(11).png">
+<img src="assignment/Screenshot&#32;(12).png">
+<img src="assignment/Screenshot&#32;(13).png">
+
 ### Note:
 
 * You are free to add your own content into the website, but basic elements as in the screenshots provided must be used.
