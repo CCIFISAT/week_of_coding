@@ -136,13 +136,16 @@ The assignment is to make a webpage as in the screenshots provided in the assign
 
 #### Mobile:
 
-<img src="assignment/Screenshot&#32;(7).png">
-<img src="assignment/Screenshot&#32;(8).png">
-<img src="assignment/Screenshot&#32;(9).png">
-<img src="assignment/Screenshot&#32;(10).png">
-<img src="assignment/Screenshot&#32;(11).png">
-<img src="assignment/Screenshot&#32;(12).png">
-<img src="assignment/Screenshot&#32;(13).png">
+<img src="assignment/Screenshot&#32;(7).png" style="height: 50%">
+<img src="assignment/Screenshot&#32;(8).png" style="height: 50%">
+<hr>
+<img src="assignment/Screenshot&#32;(9).png" style="height: 50%">
+<img src="assignment/Screenshot&#32;(10).png" style="height: 50%">
+<hr>
+<img src="assignment/Screenshot&#32;(11).png" style="height: 50%">
+<img src="assignment/Screenshot&#32;(12).png" style="height: 50%">
+<hr>
+<img src="assignment/Screenshot&#32;(13).png" style="height: 50%">
 
 ### Note:
 
