@@ -154,7 +154,10 @@ The assignment is to make a webpage as in the screenshots provided in the assign
 
 ### Hints:
 
-* The social media icons used here are used from importing fontawesome to the project. You can google it or contact one of us on how to do it.
+* The social media icons used here are used from importing fontawesome to the project. You can google it or contact one of us on how to do it. Paste this in the head:
+
+```<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>```
+
 * Make good use of the grid system taught yesterday to make the page look good on desktop and mobile.
 
 Cheers, and get coding!
