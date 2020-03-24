@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>CCI Homepage</title>
+</head>
+<body>
+  <!--Navigation-->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href=""><img src="img/logo.png" alt="CCI logo" width="50" height="60"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#team">Team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class ="home">
+    <!--Background image-->
+    <img src="img/bg1.png" class="img-fluid" alt="Bootstrap background" style=" padding-left: 150px;">
+
+    <!--Jumbotron-->
+    <div class="jumbo">
+        <p>Hi, this is a jumbotron. You can look up what a jumbotron is and what is does to its content.</p>
+        <div class="position-absolute mid-right">
+		      <a href="https://getbootstrap.com/docs/4.0/components/jumbotron/"><button class="btn btn-outline-secondary btn-lg" type="button">Just another Button</button></a>
+        </div>
+    </div>
+
+    <!--Boostrap-->
+    <div class="head">
+      <h1>Bootstrap</h1>
+    </div>
+    <hr width="50%">
+    <div class="des">
+      <p>This page is built with the help of HTML, CSS and an open-source library, Bootstrap</p>
+    </div>
+
+    <!--Three column-->
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <div class="text-center">
+            <i class="fas fa-code fa-6x" style="color: red; padding-top:0px;"></i>
+            <br>
+            <h3>HTML 5</h3>
+              <p>built with the latest HTML</p>
+          </div>
+        </div>
+
+        <div class="col-sm">
+          <div class="text-center">
+            <img src="img/boots.jpg" style="max-width:100px; max-height:100px;"/>
+            <br>
+            <h3>Bootstrap</h3>
+              <p>built with the latest Bootstrap</p>
+          </div>
+        </div>
+
+        <div class="col-sm">
+          <div class="text-center">
+            <i class="fab fa-css3 fa-6x" style="color: blue; padding-top:20px;" ></i>
+            <br>
+            <h3>CSS 3</h3>
+              <p>built with the latest CSS</p>
+          </div>
+        </div>
+        <br>
+        <br>
+      </div>
+      <hr>
+    </div>
+  </div>
+
+  <div class="about" id="about">
+
+    <!--Two column-->
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <h1 class="text-left">Bootstrap</h1>
+          <br>
+          <p class="text-left">Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.</p>
+          <br>
+          <p class="text-left">Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your
+            entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.</p>
+          <br>
+          <a href="https://getbootstrap.com/"><button type="button" class="btn btn-primary">learn more</button></a>
+        </div>
+        <div class="col-sm">
+          <br>
+          <img src="img/desk.png" alt="Bootstrap desk" style="max-height:800px; max-width:600px;">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="team" id="team">
+    <h1 class="text-center" style="padding-top:50px;">Meet the team</h1>
+    <hr>
+    <!--Three column team description-->
+    <div style="margin: 1rem;">
+      <div class="card-deck">
+        <div class="card">
+          <img src="img/team1.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">John Doe</h5>
+            <p class="card-text">John is an internet entrepreneur with almost 20 years of experience.</p>
+          </div>
+          <a href="#" class="btn btn-outline-secondary">See Profile</a>
+        </div>
+        <div class="card">
+          <img src="img/team2.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Mary Jo</h5>
+            <p class="card-text">Mary is a designer with almost 10 years of digital experience</p>
+          </div>
+          <a href="#" class="btn btn-outline-secondary">See Profile</a>
+        </div>
+        <div class="card">
+          <img src="img/team3.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Phil Ho</h5>
+            <p class="card-text">Phil is a developer with over 5 years of web development experience</p>
+          </div>
+          <a href="#" class="btn btn-outline-secondary">See Profile</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+
+  <!--Social media connect-->
+  <div class="text-center" id="contact">
+    <h1>Contact</h1>
+      <br><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <i class="fab fa-instagram fa-4x" style="color:#3f729b "></i>
+          </div>
+          <div class="col-sm">
+            <i class="fab fa-facebook-square fa-4x" style="color: #3b5998"></i>
+          </div>
+          <div class="col-sm">
+            <i class="fab fa-twitter fa-4x" style="color:#00acee "></i>
+          </div>
+          <div class="col-sm">
+            <i class="fab fa-youtube fa-4x" style="color:  #c4302b;"></i>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <br><br><br>
+
+
+  <!--Footer-->
+
+  <footer>
+    <br><br>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+				<img src="img/cci-bw.png" alt="">
+				<hr class="light">
+				<p>+91 9847772490</p>
+				<p>ccifisat2018@gmail.com</p>
+				<p>Hormis Nagar</p>
+				<p>Kerala, India</p>
+			</div>
+
+      <div class="col-md-4">
+        <hr class="light">
+				<h4>Our Hours</h4>
+				<hr class="light">
+				<p>Mon-Fri:4pm-7pm</p>
+				<p>Saturday:10am-4pm</p>
+				<p>Sunday: Closed</p>
+			</div>
+
+      <div class="col-md-4">
+        <hr class="light">
+				<h4>Service Area</h4>
+				<hr class="light">
+				<p>Everywhere</p>
+			</div>
+
+
+
+      <div class="col-md-10">
+        <hr class="light">
+        <h6 class="text-center">&copy;Centre for Cyber Innovations,FISAT</h6>
+      </div>
+    </div>
+  </div>
+</footer>
+<script type="text/javascript" src="my.js">
+
+</script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</body>
+</html>
